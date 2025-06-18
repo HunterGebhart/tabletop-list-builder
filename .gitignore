@@ -40,6 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-#ignore keys
+#ignore keys 
 git-key
 git-key.pub
