@@ -43,3 +43,5 @@ next-env.d.ts
 #ignore keys 
 git-key
 git-key.pub
+# clerk configuration (can include secrets)
+/.clerk/
