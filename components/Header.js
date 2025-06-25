@@ -15,10 +15,10 @@ export default function Header()
                     <h1>Welcome to the Home Page</h1>
                 </div>
                 <div className="flex-none flex space-x-4 px-4 ml-auto bg-red-400">
-                    <Link href="/" title="Sign up page">
+                    <Link href="/signup" title="Sign up page">
                         <h1>Sign up</h1>
                     </Link>
-                    <Link href="/" title="Login page">
+                    <Link href="/login" title="Login page">
                         <h1>Login</h1>
                     </Link>
                 </div>
