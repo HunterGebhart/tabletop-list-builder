@@ -17,7 +17,7 @@ export default function Header() {
           </Link>
         </div>
 
-        <div className="flex-1 text-center bg-green-400">
+        <div className="flex-1 text-center bg-green-400 ml-20">
           <h1>Welcome to the Home Page</h1>
         </div>
 

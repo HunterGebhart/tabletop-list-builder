@@ -1,4 +1,4 @@
-import List_Viewport from "@/components/List_Viewport";
+import List_Viewport from "@/components/ListViewport";
 
 export default function Warhammer40k_Layout({children})
 {
